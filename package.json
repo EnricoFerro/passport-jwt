@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mikenicholson/passport-jwt.git"
+    "url": "https://github.com/EnricoFerro/passport-multi-jwt"
   },
   "keywords": [
     "Passport",
@@ -23,9 +23,9 @@
   "author": "James Strachan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Sanofi-IADC/passport-multi-jwt/issues"
+    "url": "https://github.com/EnricoFerro/passport-multi-jwt/issues"
   },
-  "homepage": "https://github.com/Sanofi-IADC/passport-multi-jwt",
+  "homepage": "https://github.com/EnricoFerro/passport-multi-jwt",
   "devDependencies": {
     "chai": "^3.0.0",
     "chai-passport-strategy": "^1.0.0",
