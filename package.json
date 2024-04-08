@@ -1,5 +1,5 @@
 {
-  "name": "@sanofi-iadc/passport-multi-jwt",
+  "name": "@enricoferro/passport-multi-jwt",
   "version": "0.0.9",
   "description": "Passport authentication strategy using JSON Web Tokens with multiple providers. Fully backwards compatible with passport-jwt.",
   "main": "./lib",
